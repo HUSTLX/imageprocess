@@ -1,0 +1,14 @@
+﻿1>------ 已启动生成: 项目: NightVision, 配置: Debug Win32 ------
+1>生成启动时间为 2014/12/17 22:35:22。
+1>InitializeBuildStatus:
+1>  正在对“Debug\NightVision.unsuccessfulbuild”执行 Touch 任务。
+1>ClCompile:
+1>  main.cpp
+1>Link:
+1>  LINK : 没有找到 F:\课件\数字图像处理\107004043_7_Homework-6 (1)\Homework-6\NightVision\Debug\NightVision.exe 或上一个增量链接没有生成它；正在执行完全链接
+1>LINK : fatal error LNK1104: 无法打开文件“F:\课件\数字图像处理\107004043_7_Homework-6 (1)\Homework-6\NightVision\Debug\NightVision.exe”
+1>
+1>生成失败。
+1>
+1>已用时间 00:00:01.76
+========== 生成: 成功 0 个，失败 1 个，最新 0 个，跳过 0 个 ==========

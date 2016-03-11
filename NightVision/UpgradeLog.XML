@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="NightVision">
+</Property><Property Name="解决方案文件" Value="F:\课件\数字图像处理\107004043_7_Homework-6 (1)\Homework-6\NightVision\NightVision\NightVision.sln">
+</Property><Property Name="Date" Value="2014年12月21日">
+</Property><Property Name="Time" Value="17:28:20">
+</Property></Properties><Event ErrorLevel="0" Project="NightVision" Source="NightVision.vcproj" Description="Converting project file 'F:\课件\数字图像处理\107004043_7_Homework-6 (1)\Homework-6\NightVision\NightVision\NightVision.vcproj'.">
+</Event><Event ErrorLevel="1" Project="NightVision" Source="NightVision.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="NightVision" Source="NightVision.vcproj" Description="Done converting to new project file 'F:\课件\数字图像处理\107004043_7_Homework-6 (1)\Homework-6\NightVision\NightVision\NightVision.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="NightVision" Source="NightVision.vcproj" Description="Converted">
+</Event></UpgradeLog>
